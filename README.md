@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **iamkareem2002@gmail.com**
 
-- 📄 Know about my experiences ["C:\Users\AYASHA\OneDrive\Desktop\Shaik_Abdul_Resume.pdf"]("C:\Users\AYASHA\OneDrive\Desktop\Shaik_Abdul_Resume.pdf")
+- 📄 Know about my experiences https://drive.google.com/file/d/1ywd3KO-qUqXafqcHitNb1ZUSRHZhNrx9/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
